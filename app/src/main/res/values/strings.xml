@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Birthday-Witch</string>
+    <string name="your_birth_date_is">Your birthdate is</string>
+    <string name="again">Again!</string>
+    <string name="_16_17_18_19">16\t\t17\t\t18\t\t19</string>
+
+
+    <string name="_28_29_39_31">28\t\t29\t\t39\t\t31</string>
+    <string name="_8_9_10_11">8\t\t9\t\t10\t\t11</string>
+
+    <string name="_24_25_26_27">24\t\t25\t\t26\t\t27</string>
+
+    <string name="_4_5_6_7">4\t\t 5\t\t 6\t\t 7</string>
+    <string name="_12_13_14_15">12\t\t13\t\t14\t\t15</string>
+    <string name="_20_21_22_23">20\t\t21\t\t22\t\t23</string>
+    <string name="_28_29_30_31">28\t\t29\t\t30\t\t31</string>
+    <string name="_2_3_6_7">2\t\t 3\t\t 6\t\t 7</string>
+    <string name="_10_11_14_15">10\t\t11\t\t14\t\t15</string>
+    <string name="_18_19_22_23">18\t\t19\t\t22\t\t23</string>
+    <string name="_26_27_30_31">26\t\t27\t\t30\t\t31</string>
+    <string name="_1_3_5_7">1\t\t 3\t\t 5\t\t 7</string>
+    <string name="_9_11_13_15">9\t\t11\t\t13\t\t15</string>
+    <string name="_17_19_21_23">17\t\t19\t\t21\t\t23</string>
+    <string name="_25_27_29_31">25\t\t27\t\t29\t\t31</string>
+    <string name="can_u">Can you see your birth date?</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+    <string name="birthday_witch">Birthday Witch</string>
+    <string name="exeligent">By - Biniyam Daniel</string>
+    <string name="witch">witch</string>
+</resources>
