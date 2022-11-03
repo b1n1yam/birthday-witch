@@ -3,7 +3,7 @@
     package="com.biniyam.birthday_witch">
 
     <application
-        android:exported="false"
+
 
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar"
-            >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
